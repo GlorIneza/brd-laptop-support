@@ -1,0 +1,12 @@
+Client error: `POST https://api.sandbox.africastalking.com/version1/messaging` resulted in a `401 Unauthorized` response:
+The supplied authentication is invalid
+
+Client error: `POST https://api.sandbox.africastalking.com/version1/messaging` resulted in a `401 Unauthorized` response:
+The supplied authentication is invalid
+
+Client error: `POST https://api.sandbox.africastalking.com/version1/messaging` resulted in a `401 Unauthorized` response:
+The supplied authentication is invalid
+
+Client error: `POST https://api.sandbox.africastalking.com/version1/messaging` resulted in a `401 Unauthorized` response:
+The supplied authentication is invalid
+
